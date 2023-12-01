@@ -1,0 +1,14 @@
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\pracpracpracpracpracpracprac\pracpracpracpracpracpracprac\bin\Debug\net8.0\pracpracpracpracpracpracprac.exe
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\pracpracpracpracpracpracprac\pracpracpracpracpracpracprac\bin\Debug\net8.0\pracpracpracpracpracpracprac.deps.json
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\pracpracpracpracpracpracprac\pracpracpracpracpracpracprac\bin\Debug\net8.0\pracpracpracpracpracpracprac.runtimeconfig.json
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\pracpracpracpracpracpracprac\pracpracpracpracpracpracprac\bin\Debug\net8.0\pracpracpracpracpracpracprac.dll
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\pracpracpracpracpracpracprac\pracpracpracpracpracpracprac\bin\Debug\net8.0\pracpracpracpracpracpracprac.pdb
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\pracpracpracpracpracpracprac\pracpracpracpracpracpracprac\obj\Debug\net8.0\pracpracpracpracpracpracprac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\pracpracpracpracpracpracprac\pracpracpracpracpracpracprac\obj\Debug\net8.0\pracpracpracpracpracpracprac.AssemblyInfoInputs.cache
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\pracpracpracpracpracpracprac\pracpracpracpracpracpracprac\obj\Debug\net8.0\pracpracpracpracpracpracprac.AssemblyInfo.cs
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\pracpracpracpracpracpracprac\pracpracpracpracpracpracprac\obj\Debug\net8.0\pracpracpracpracpracpracprac.csproj.CoreCompileInputs.cache
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\pracpracpracpracpracpracprac\pracpracpracpracpracpracprac\obj\Debug\net8.0\pracpracpracpracpracpracprac.dll
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\pracpracpracpracpracpracprac\pracpracpracpracpracpracprac\obj\Debug\net8.0\refint\pracpracpracpracpracpracprac.dll
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\pracpracpracpracpracpracprac\pracpracpracpracpracpracprac\obj\Debug\net8.0\pracpracpracpracpracpracprac.pdb
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\pracpracpracpracpracpracprac\pracpracpracpracpracpracprac\obj\Debug\net8.0\pracpracpracpracpracpracprac.genruntimeconfig.cache
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\pracpracpracpracpracpracprac\pracpracpracpracpracpracprac\obj\Debug\net8.0\ref\pracpracpracpracpracpracprac.dll
